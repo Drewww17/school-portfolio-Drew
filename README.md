@@ -1,2 +1,4 @@
 # Team Drew
-![BiteBack_Logo](./3.jpg)
+![BiteBack Logo](./BiteBack_Logo.jpg)
+
+Welcome to our project!
